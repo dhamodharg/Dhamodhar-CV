@@ -62,16 +62,9 @@ h3{
 .skill-row{
     width: 50%;
     margin: auto;
-    text-align: left;
     line-height: 2;
 }   
-.skill{
-    width: 18%;
-    height: 10%;
-    float: left;
-    margin-right: 30px;
-    margin-bottom: 30px;
-}
+
 
 .p2{
     padding-bottom: 5%;
